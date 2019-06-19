@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "app-install": "npm install --prefix app",
-    "app": "npm serve --prefix app",
+    "app": "npm start --prefix app",
     "start": "node server.js",
     "server": "node server.js",
     "dev": "concurrently \"npm run server\" \"npm run app\""
