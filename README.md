@@ -1,5 +1,5 @@
 # Node-Vue
-基于 Node Vue 的项目
+基于 Node Vue 的项目，实现了完整的网站基本操作
 
 ## Project setup
 ```
